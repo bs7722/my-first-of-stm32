@@ -1,4 +1,4 @@
-/*安裝步驟(先別問為什麼,至少比起網路教學文章沒一個模仿/重複實驗成功的來得好)*/
+/*安裝步驟(先別問為什麼,至少比起我或你/妳模仿網路教學文章,卻沒一個模仿/重複實驗成功的來得好)*/
 //安裝ST-LINK utility：「[ STM32 ST-LINK utility ]en.stsw-link004」
 //安裝ST-link v2 driver：「[ ST-link v2 driver ]en.stsw-link009」
 //安裝Programmer：「我自載的ST stm32CubeProgrammer(for 不同的OS環境)」的en.stm32cubeprg-win64_v2-6-0
