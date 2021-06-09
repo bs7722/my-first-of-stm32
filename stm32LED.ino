@@ -21,6 +21,8 @@
 
 //STM32上pin 13(PC13)接的LED預設是LOW=1,HIGH=0
 //LED顯示的電壓值與人類習慣性直觀不同，其原因與硬體有關，在此不多做解釋，懂的人自己想通，不懂的自己再上網查(pull-up/pull-down circuit)。
+
+//以下是測試程式 on STM32F103C8T6(ARM cortex-m3) with arduino
 #define pinLED PC13
 
 void setup() 
